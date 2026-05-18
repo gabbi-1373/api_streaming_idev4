@@ -1,0 +1,25 @@
+{
+  "name": "api_streaming_idev4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabbi-1373/api_streaming_idev4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabbi-1373/api_streaming_idev4/issues"
+  },
+  "homepage": "https://github.com/gabbi-1373/api_streaming_idev4#readme",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^3.1.14"
+  }
+}
