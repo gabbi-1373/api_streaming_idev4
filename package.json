@@ -18,6 +18,7 @@
   "homepage": "https://github.com/gabbi-1373/api_streaming_idev4#readme",
   "dependencies": {
     "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "mongose": "^0.0.2-security",
     "nodemon": "^3.1.14"
